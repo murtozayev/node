@@ -1,0 +1,11 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "First node JS",
+  "main": "node.js",
+  "scripts": {
+    "test": "npm run node"
+  },
+  "author": "Jahongir Murtozayev",
+  "license": "ISC"
+}
